@@ -7,7 +7,7 @@ from sklearn.metrics import (
     classification_report
 )
 
-# لیبل‌ها (CIFAR-10)
+# Labels (CIFAR-10)
 class_names = [
     "airplane", "automobile", "bird", "cat", "deer",
     "dog", "frog", "horse", "ship", "truck"
